@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./workspace2/Bulao/app/libs/library-smoothstreaming-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbd454d51fd4e9208ceeb9d00bbc664d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbd454d51fd4e9208ceeb9d00bbc664d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbd454d51fd4e9208ceeb9d00bbc664d/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

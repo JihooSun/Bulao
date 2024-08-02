@@ -1,0 +1,154 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId 'com.jeno.bulao'
+        minSdkVersion 23
+        targetSdkVersion 28
+        versionCode 146
+        versionName "1.4.6"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        externalNativeBuild {
+            cmake {
+                cppFlags ''
+            }
+        }
+        ndk.abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64'
+    }
+
+    configurations.all {
+        resolutionStrategy {
+            force 'androidx.core:core:1.5.0'
+        }
+    }
+
+    signingConfigs {
+        release {
+            keyAlias 'daxiongalias'
+            keyPassword 'daxiong'
+            storeFile file('../dog.jks')
+            storePassword 'daxiong'
+        }
+
+        unsigned {
+
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            debuggable false
+            jniDebuggable false
+            signingConfig signingConfigs.release
+            zipAlignEnabled true
+        }
+        debug {
+            jniDebuggable false
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            debuggable true
+        }
+
+        unsigned {
+            minifyEnabled true
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            debuggable false
+            jniDebuggable false
+            signingConfig signingConfigs.unsigned
+            zipAlignEnabled true
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+    }
+
+    compileOptions {
+        sourceCompatibility 1.8
+        targetCompatibility 1.8
+    }
+    ndkVersion '20.1.5948944'
+    externalNativeBuild {
+        cmake {
+            path file('src/main/cpp/CMakeLists.txt')
+            version '3.10.2'
+        }
+    }
+
+    dataBinding{
+        enabled true
+    }
+
+    // APK 文件名称格式 mine-version-channel.apk
+    applicationVariants.all { variant ->
+        variant.outputs.all {
+            outputFileName = "bulao_${defaultConfig.versionName}.apk"
+        }
+    }
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.aar','*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    // Retrofit库
+    implementation 'com.squareup.okhttp3:okhttp:4.9.3'
+    // Okhttp库
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.9.3'
+    implementation 'org.greenrobot:greendao:3.3.0'
+    implementation 'org.greenrobot:greendao-generator:3.3.0'
+    def dialogx_version = "0.0.49.beta9"
+    implementation "com.github.kongzue.DialogX:DialogX:${dialogx_version}"
+    implementation "com.github.kongzue.DialogX:DialogXMIUIStyle:${dialogx_version}"
+    implementation "androidx.recyclerview:recyclerview:1.2.1"
+    implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.1.0'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    implementation 'devlight.io:navigationtabbar:1.2.5'
+    implementation 'io.github.youth5201314:banner:2.2.2'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation "org.reactivestreams:reactive-streams:1.0.3"
+    implementation "com.google.android:flexbox:0.2.6"
+    implementation 'com.sunfusheng:MarqueeView:1.4.0'
+    implementation 'com.github.JeffMony:JeffM3U8Lib:1.2.0'
+
+    //自己封装的库，都有对应的案例项目【欢迎star】：https://github.com/yangchong211
+    implementation 'cn.yc:YCStatusBarLib:1.5.0'
+    implementation 'com.yc:PagerLib:1.0.4'
+    implementation 'cn.yc:YCStateLib:1.2.2'
+
+    // 需要lagecy支持
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.flurry.android:analytics:13.3.0@aar'
+    implementation 'com.github.zcweng:switch-button:0.0.3@aar'
+    implementation 'com.yanzhenjie:permission:2.0.3'
+
+    implementation  'io.github.scwang90:refresh-layout-kernel:2.0.6'      //核心必须依赖
+    implementation  'io.github.scwang90:refresh-header-classics:2.0.6'    //经典刷新头
+
+    implementation  'io.github.scwang90:refresh-footer-ball:2.0.6'        //球脉冲加载
+    implementation  'io.github.scwang90:refresh-footer-classics:2.0.6'    //经典加载
+
+    implementation 'com.github.getActivity:XXPermissions:11.5'
+    implementation 'com.github.maning0303:MNUpdateAPK:V2.0.5'
+
+}

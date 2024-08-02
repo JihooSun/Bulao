@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./workspace2/Bulao/app/libs/VideoSqlLite-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bad1e7e559670407141f0d71467d759d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bad1e7e559670407141f0d71467d759d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bad1e7e559670407141f0d71467d759d/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

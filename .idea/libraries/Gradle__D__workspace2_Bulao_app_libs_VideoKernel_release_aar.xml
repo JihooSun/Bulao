@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./workspace2/Bulao/app/libs/VideoKernel-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/310e6bd4930d5efee6b74e36b327fede/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/310e6bd4930d5efee6b74e36b327fede/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/310e6bd4930d5efee6b74e36b327fede/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

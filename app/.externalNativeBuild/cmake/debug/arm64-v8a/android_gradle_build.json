@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "D:/workspace2/Bulao/app/.externalNativeBuild/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android23 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmovie_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake",
+    "D:\\workspace2\\Bulao\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\workspace2\\Bulao\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\" --target clean"
+  ],
+  "libraries": {
+    "movie-Debug-arm64-v8a": {
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\workspace2\\Bulao\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\" --target movie",
+      "buildType": "debug",
+      "toolchain": "2112098429",
+      "abi": "arm64-v8a",
+      "artifactName": "movie",
+      "files": [
+        {
+          "src": "D:\\workspace2\\Bulao\\app\\src\\main\\cpp\\movie.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\workspace2\\Bulao\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libmovie.so"
+    }
+  },
+  "toolchains": {
+    "2112098429": {
+      "cppCompilerExecutable": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

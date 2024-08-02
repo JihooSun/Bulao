@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.scwang90:refresh-drawable-paint:2.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8307a3e7b181cd3074905247a41ffc7f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8307a3e7b181cd3074905247a41ffc7f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8307a3e7b181cd3074905247a41ffc7f/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0425cde80080a9a5f2565d0461c6769b/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0425cde80080a9a5f2565d0461c6769b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0425cde80080a9a5f2565d0461c6769b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

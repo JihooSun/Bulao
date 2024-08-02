@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/pt_black</item>
+        <item name="android:windowTranslucentStatus" >true</item>
+    </style>
+
+    <style name="DownloadConfirmDialogFullScreen" parent="android:Theme.Dialog">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="DownloadConfirmDialogAnimationUp">
+        <item name="android:windowEnterAnimation">@anim/download_confirm_dialog_slide_up</item>
+    </style>
+    <style name="DownloadConfirmDialogAnimationRight">
+        <item name="android:windowEnterAnimation">@anim/download_confirm_dialog_slide_right_in</item>
+    </style>
+
+    <style name="ActionSheetDialogStyle" parent="@style/Theme.AppCompat.Dialog">
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@color/pt_black</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 浮于activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- dialog以外的区域模糊效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- dialog进入及退出动画 -->
+        <item name="android:windowAnimationStyle">@style/ActionSheetDialogAnimation</item>
+    </style>
+    <!-- actionsheet进出动画 -->
+    <style name="ActionSheetDialogAnimation" parent="@style/Animation.Design.BottomSheetDialog">
+        <item name="android:windowEnterAnimation">@anim/anim_dialogx_bottom_enter</item>
+        <item name="android:windowExitAnimation">@anim/anim_dialogx_bottom_exit</item>
+    </style>
+
+    <!-- 自定义dialog样式 -->
+    <style name="CustomDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="VipEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/vip_item_dark_grey</item>
+        <item name="colorControlActivated">@color/vip_item_dark_grey</item>
+    </style>
+
+</resources>

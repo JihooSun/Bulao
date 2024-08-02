@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./workspace2/Bulao/app/libs/MusicPlayer-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4dcba906110a607cb282dd7a7f0044ba/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4dcba906110a607cb282dd7a7f0044ba/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4dcba906110a607cb282dd7a7f0044ba/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

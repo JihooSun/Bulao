@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: D./workspace2/Bulao/app/libs/library-core-release.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/022e1abcdbe888dc4083af58d1b87822/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f0e756d2ebfe3f18b3f3e1880e2f394/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/022e1abcdbe888dc4083af58d1b87822/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/022e1abcdbe888dc4083af58d1b87822/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/022e1abcdbe888dc4083af58d1b87822/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f0e756d2ebfe3f18b3f3e1880e2f394/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f0e756d2ebfe3f18b3f3e1880e2f394/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f0e756d2ebfe3f18b3f3e1880e2f394/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

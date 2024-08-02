@@ -1,0 +1,5 @@
+# ninja log v5
+0	348	728508152	CMakeFiles/movie.dir/movie.cpp.o	157843b89b8529b5
+349	440	728508152	D:/workspace2/Bulao/app/build/intermediates/cmake/release/obj/armeabi-v7a/libmovie.so	9b5e8404c85c5b0c
+1	372	730482976	CMakeFiles/movie.dir/movie.cpp.o	157843b89b8529b5
+372	513	730482976	D:/workspace2/Bulao/app/build/intermediates/cmake/release/obj/armeabi-v7a/libmovie.so	9b5e8404c85c5b0c

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCStateLib:1.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/885fc8f57e18c8f718fcfa1dade0fd7f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/885fc8f57e18c8f718fcfa1dade0fd7f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/885fc8f57e18c8f718fcfa1dade0fd7f/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d5665af0ad32ac4b632eb96bd5b573b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d5665af0ad32ac4b632eb96bd5b573b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d5665af0ad32ac4b632eb96bd5b573b/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

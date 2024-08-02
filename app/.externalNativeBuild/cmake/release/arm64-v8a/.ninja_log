@@ -1,0 +1,5 @@
+# ninja log v5
+1	370	728508151	CMakeFiles/movie.dir/movie.cpp.o	904a24007c57d916
+371	464	728508151	D:/workspace2/Bulao/app/build/intermediates/cmake/release/obj/arm64-v8a/libmovie.so	210a00d985997300
+2	373	730482975	CMakeFiles/movie.dir/movie.cpp.o	904a24007c57d916
+373	503	730482975	D:/workspace2/Bulao/app/build/intermediates/cmake/release/obj/arm64-v8a/libmovie.so	210a00d985997300

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--点击后-->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/pt_dark_grey"/>
+            <corners android:radius="15dp"/>
+        </shape>
+    </item>
+
+    <!--默认-->
+    <item android:state_pressed="false">
+        <shape>
+            <gradient
+                android:type="linear"
+                android:startColor="@color/trans_search_grey_start"
+                android:angle="-45"
+                android:endColor="@color/trans_search_grey_black" />
+            <corners android:radius="15dp"/>
+        </shape>
+    </item>
+
+</selector>

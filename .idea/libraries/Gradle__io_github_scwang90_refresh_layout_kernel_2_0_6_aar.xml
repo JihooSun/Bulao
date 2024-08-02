@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.scwang90:refresh-layout-kernel:2.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f962c98a39ea3b71d9eb59db40a355b3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f962c98a39ea3b71d9eb59db40a355b3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f962c98a39ea3b71d9eb59db40a355b3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3348f3a40e86efad1f90c4f2485cda5a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3348f3a40e86efad1f90c4f2485cda5a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3348f3a40e86efad1f90c4f2485cda5a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

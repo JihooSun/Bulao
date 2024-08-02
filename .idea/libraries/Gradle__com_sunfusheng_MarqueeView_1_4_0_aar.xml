@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sunfusheng:MarqueeView:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1406794ba03cf79674961941809dc15c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1406794ba03cf79674961941809dc15c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1406794ba03cf79674961941809dc15c/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e932ea217c0312a3cc2310a1053f7ba1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e932ea217c0312a3cc2310a1053f7ba1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e932ea217c0312a3cc2310a1053f7ba1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

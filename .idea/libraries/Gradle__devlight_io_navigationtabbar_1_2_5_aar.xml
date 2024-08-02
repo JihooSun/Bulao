@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: devlight.io:navigationtabbar:1.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1451c2d93c821ef522396c13e2aeb33/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1451c2d93c821ef522396c13e2aeb33/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1451c2d93c821ef522396c13e2aeb33/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df4f11cbd9b102ff606a7c3127ac7a5f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df4f11cbd9b102ff606a7c3127ac7a5f/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df4f11cbd9b102ff606a7c3127ac7a5f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

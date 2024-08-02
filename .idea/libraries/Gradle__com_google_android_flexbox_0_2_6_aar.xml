@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android:flexbox:0.2.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a2f23dd98fb645ef1f18eb3a350fbf3/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db25afc8b7a098cc4e2f462f72d0f5f8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a2f23dd98fb645ef1f18eb3a350fbf3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a2f23dd98fb645ef1f18eb3a350fbf3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a2f23dd98fb645ef1f18eb3a350fbf3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db25afc8b7a098cc4e2f462f72d0f5f8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db25afc8b7a098cc4e2f462f72d0f5f8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db25afc8b7a098cc4e2f462f72d0f5f8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: D./workspace2/Bulao/app/libs/library-dash-release.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/232a395430a0ab8797745742b18ad3f6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/232a395430a0ab8797745742b18ad3f6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/232a395430a0ab8797745742b18ad3f6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/232a395430a0ab8797745742b18ad3f6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

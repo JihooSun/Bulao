@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.JeffMony:JeffM3U8Lib:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2e39f4703f14fce5d1f7d8c1ca83501/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2e39f4703f14fce5d1f7d8c1ca83501/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2e39f4703f14fce5d1f7d8c1ca83501/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

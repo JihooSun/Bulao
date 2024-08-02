@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake",
+    "D:\\workspace2\\RenzheMovie\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\workspace2\\RenzheMovie\\app\\.externalNativeBuild\\cmake\\unsigned\\x86\" --target clean"
+  ],
+  "libraries": {
+    "movie-Release-x86": {
+      "artifactName": "movie",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"D:\\workspace2\\RenzheMovie\\app\\.externalNativeBuild\\cmake\\unsigned\\x86\" --target movie",
+      "abi": "x86",
+      "output": "D:\\workspace2\\RenzheMovie\\app\\build\\intermediates\\cmake\\unsigned\\obj\\x86\\libmovie.so"
+    }
+  }
+}

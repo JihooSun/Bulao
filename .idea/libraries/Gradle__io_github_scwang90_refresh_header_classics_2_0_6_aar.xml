@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.scwang90:refresh-header-classics:2.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1bef9c3d901e75a51a25c6a75197cab5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1bef9c3d901e75a51a25c6a75197cab5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1bef9c3d901e75a51a25c6a75197cab5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7bc5689ac5d569fb799a3cc35d3b9fe/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7bc5689ac5d569fb799a3cc35d3b9fe/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7bc5689ac5d569fb799a3cc35d3b9fe/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

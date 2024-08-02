@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.maning0303:MNUpdateAPK:V2.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f751870c2418f2e079f48b0bd85d491b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f751870c2418f2e079f48b0bd85d491b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f751870c2418f2e079f48b0bd85d491b/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

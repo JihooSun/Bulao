@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: D./workspace2/Bulao/app/libs/VideoPlayer-release.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4da68daf0772bb7ac71aac08a392d139/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4da68daf0772bb7ac71aac08a392d139/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4da68daf0772bb7ac71aac08a392d139/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4da68daf0772bb7ac71aac08a392d139/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: D./workspace2/Bulao/app/libs/VideoView-release.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c12de108bc4937af940a564038e1a100/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c12de108bc4937af940a564038e1a100/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c12de108bc4937af940a564038e1a100/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c12de108bc4937af940a564038e1a100/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

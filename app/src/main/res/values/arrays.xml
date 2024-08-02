@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titles">
+        <item>推荐</item>
+        <item>电影1</item>
+        <item>连续剧</item>
+        <item>综艺</item>
+        <item>动漫</item>
+        <item>纪录片</item>
+    </string-array>
+
+</resources>
